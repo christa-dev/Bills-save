@@ -1,7 +1,7 @@
 output_data: True  # 是否输出同步数据，可选 True, False
 email: Christa2229@henu.edu.cn
   # 用于处理账单邮件的邮箱
-  server:
+  server: False
     address: 'christa2229@qq.com'  #邮箱地址
     password: 'nslkxaojznhtbfcb'  # 邮箱密钥，使用POP3协议，注意使用相应的密钥
   # 用于发送密码和接收状态的邮箱
